@@ -1,4 +1,4 @@
-package pl.kielce.tu.battleshipsserverv4;
+package pl.kato.tu.battleshipsserverv4;
 
 /**
  * Reprezentuje pozycję na planszy.
