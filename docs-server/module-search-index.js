@@ -1,1 +1,1 @@
-moduleSearchIndex = [{"l":"pl.kielce.tu.battleshipsserverv4"}];updateSearchResults();
+moduleSearchIndex = [{"l":"pl.kato.tu.battleshipsserverv4"}];updateSearchResults();
