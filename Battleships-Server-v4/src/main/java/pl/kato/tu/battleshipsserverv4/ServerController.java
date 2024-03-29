@@ -1,4 +1,4 @@
-package pl.kielce.tu.battleshipsserverv4;
+package pl.kato.tu.battleshipsserverv4;
 
 import javafx.event.Event;
 import javafx.fxml.FXML;
