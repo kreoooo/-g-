@@ -1,4 +1,4 @@
-package pl.kielce.tu.battleshipsclientv4;
+package pl.kato.tu.battleshipsclientv4;
 
 import java.io.IOException;
 
