@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kielce.tu.battleshipsserverv4.ServerController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kato.tu.battleshipsserverv4.ServerController">
     <children>
         <Label alignment="CENTER" contentDisplay="CENTER" layoutX="437.0" layoutY="71.0" text="GAME TRACKER" textAlignment="CENTER" textFill="WHITE" AnchorPane.bottomAnchor="671.0" AnchorPane.rightAnchor="436.0" AnchorPane.topAnchor="71.0">
             <font>
