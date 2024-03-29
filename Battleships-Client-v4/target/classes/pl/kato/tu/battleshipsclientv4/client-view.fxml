@@ -5,7 +5,7 @@
 <?import java.lang.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kielce.tu.battleshipsclientv4.ClientController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.kato.tu.battleshipsclientv4.ClientController">
    <children>
       <GridPane fx:id="gridPane1" hgap="7.0" layoutX="7.0" layoutY="5.0" prefHeight="791.0" prefWidth="780.0" stylesheets="@button.css" vgap="7.0" xmlns:fx="http://javafx.com/fxml">
          <children>
